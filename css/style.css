@@ -1,0 +1,39 @@
+/*!
+ * Mastertech - Heroic Features
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+
+.jumbotron-amarelo {
+    background-color: #ffc600;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.card {
+    height: 100%;
+}
+
+
+/* Inicio do meu CSS */
+#navbarResponsive {
+    font-family: 'Lato', sans-serif;
+}
+.btn-azul {
+    color: #fff;
+    background-color: #4087ff;
+    border-color: #4087ff;
+}
+
+/* Fim do meu CSS */
